@@ -1,3 +1,5 @@
+mod btc;
+
 fn main() {
-    println!("Hello, world!");
+    btc::main();
 }
