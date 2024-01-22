@@ -1,2 +1,2 @@
-# rust_crypto_price
-Get crypto price with Rust ;-)
+# Rust crypto app
+Get crypto price with Rust :ghost:
